@@ -1,6 +1,6 @@
 const LinksSocialMidia = {
   github: 'andrelonr5',
-  youtube: 'https://www.youtube.com/channel/UC33UAH30BteoNcApoGXwvaA',
+  youtube: 'channel/UC33UAH30BteoNcApoGXwvaA',
   facebook: 'andrelon.brito',
   instagram: 'andre_lonbrito',
   twitter: 'andrelonbrito'
