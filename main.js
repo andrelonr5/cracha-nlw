@@ -12,7 +12,6 @@ function chageSocialMdediaLinks() {
     li.children[0].href = `https://${social}.com/${LinksSocialMidia[social]}`
   }
 }
-chageSocialMdediaLinks()
 
 function getGitHubProfileInfos() {
   const url = `https://api.github.com/users/${LinksSocialMidia.github}`
